@@ -5,6 +5,8 @@ Hayvana Karsi Islenen Suc Alarm Sistemi
 
 Projenin amaci sosyal medya mecralarindan (FB, Instagram, Twitter) hayvana karsi islenen suclari ihbar eden veriyi toplayip bu veriyi akan(stream) bir sekilde bir dashboard da gordellestiren ve bu yolla STK’lara, Emniyet Teskilatina ve Belediyelere hayvanlara karsi suclara acil mudahale imkani veren bir urun hazirlamaktir.
 
+Projemizin email adresi petinrescue@gmail.com
+
 # Ekibimiz;
 
   # Nilden Tutalar
@@ -22,5 +24,13 @@ Projenin amaci sosyal medya mecralarindan (FB, Instagram, Twitter) hayvana karsi
   # Selda Hızlı
   
   Herkese merhaba. Akademik özgeçmişim matematik ve istatistik alanındadır.Lisans eğitimimi teorik ağırlıklı matematik bölümünde tamamladım.Daha sonra İstatistik anabilim dalı veri bilimi bölümünde tez aşamasına geçmiş bulunmaktayım.Açıklanabilir yapay zeka alanında araştırmalarıma devam ediyorum.Akademik bakış açısının yanında sektörel bakış açısı kazanmak için İstanbul data science academide data science eğitimimi tamamladım.Bugüne kadar elimden geldiğince korunmaya,yemeğe,sevgiye ihtiyacı olan canların hayatına dokunmaya çalıştım.Şimdi tüm bilgi birikimimi onlar için kullanma zamanı.
+
+# Kullanilan Gelistirme Araclari;
+
+Projemizde Apachi Nifi, Google Data Studio kullanilmistir.
+
+# Kullanilan API'lar;
+
+Projemizde Twitter API kullanilmistir.
 
 
